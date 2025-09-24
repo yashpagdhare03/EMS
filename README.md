@@ -128,5 +128,3 @@ No environment variables required. Styling is handled by Tailwind CSS. You can a
 - `npm run preview`: Preview production build
 - `npm run lint`: Run ESLint
 
-## License
-This project is provided as-is for educational purposes. Add a license file if you intend to distribute.
